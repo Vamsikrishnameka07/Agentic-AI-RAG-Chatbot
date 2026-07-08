@@ -15,7 +15,7 @@ A futuristic, agent-powered chatbot that uses Retrieval-Augmented Generation (RA
 ### 1. Clone and Navigate
 git clone https://github.com/vamsikrishnameka07/Agentic-AI-RAG-Chatbot.git
 
-cd Agentic-RAG-Chatbot
+cd Agentic-AI-RAG-Chatbot
 
 ### 2. Create & Activate Virtual Environment
 python -m venv venv
