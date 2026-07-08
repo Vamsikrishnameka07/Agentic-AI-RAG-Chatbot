@@ -13,7 +13,7 @@ A futuristic, agent-powered chatbot that uses Retrieval-Augmented Generation (RA
 ## 🛠 Setup Instructions
 
 ### 1. Clone and Navigate
-git clone https://github.com/vamsikrishnameka07/Agentic-AI-RAG-Chatbot.git
+git clone https://github.com/Vamsikrishnameka07/Agentic-AI-RAG-Chatbot.git
 
 cd Agentic-AI-RAG-Chatbot
 
